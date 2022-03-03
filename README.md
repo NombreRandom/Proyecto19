@@ -1,2 +1,1 @@
-# Proyecto19
-Proyecto19 (no completamente terminado)(aun tiene bugs)
+# C19_Plantilla_Proyecto_Tu_Propio_Juego_de_corredor_infinito
